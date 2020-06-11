@@ -56,6 +56,7 @@ namespace CommonAppModel
     }
 
    
+    //Example model
 
     public class CounselorProfileModel : CommonAppFormAdpter {
 
